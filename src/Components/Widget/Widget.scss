@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  div#root {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #171717;
+  }
+  
+  .widget {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 30em;
+    height: 300px;
+    max-width: 96%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 32px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  
+    &-content {
+      margin-bottom: 2rem;
+      font-size: 1.5em;
+      height: 60%;
+    }
+  }
+  
