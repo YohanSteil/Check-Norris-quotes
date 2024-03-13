@@ -5,7 +5,7 @@ Les langages utilisés pour réaliser ce site sont :
 - Typescript
 - SCSS
 
-J'ai récupéré les citation via l'api https://api.chucknorris.io/jokes/random
+J'ai récupéré les citations via l'api https://api.chucknorris.io/jokes/random
 
 https://github.com/YohanSteil/Check-Norris-quotes/assets/17311454/ed471bd9-3ff1-4c90-944a-0f05f8a9e408
 
