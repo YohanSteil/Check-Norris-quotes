@@ -2,9 +2,8 @@
 
 Les langages utilisés pour réaliser ce site sont :
 - React
-- Javascript
 - Typescript
-- HTML/CSS/SCSS
+- SCSS
 
 https://github.com/YohanSteil/Check-Norris-quotes/assets/17311454/ed471bd9-3ff1-4c90-944a-0f05f8a9e408
 
